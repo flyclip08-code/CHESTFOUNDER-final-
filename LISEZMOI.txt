@@ -1,0 +1,13 @@
+COFFRES — app PC + overlay Fortnite + comptage automatique par replays
+
+COMPILER : GitHub > Actions > "Build PC" (voir les étapes données dans le chat). Télécharge « coffres-pc » (Coffres.exe) et « scanner-log ».
+
+AUTOMATIQUE
+- Active "Lancer avec Windows" (onglet Saison) : l'app démarre en arrière-plan (icône près de l'horloge).
+- Quand Fortnite démarre, l'overlay apparaît tout seul ; quand il se ferme, il disparaît.
+- À la fin de chaque game, le replay est lu et les coffres ouverts sont ajoutés (quelques secondes à quelques minutes).
+- Le comptage en direct reste possible : F9 / F10 / F11 ou la souris.
+
+TOUCHES (onglet Saison > Overlay Fortnite)
+Clique une touche, puis appuie sur la nouvelle touche, un clic molette, un bouton latéral de la souris ou la molette ↑ / ↓.
+Interrupteur = désactiver. Valeurs par défaut : F9 +1 | F10 -1 | F11 terminer | F8 afficher/masquer | F6 déplacer.
